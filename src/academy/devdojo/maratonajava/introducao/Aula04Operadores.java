@@ -39,7 +39,25 @@ public class Aula04Operadores {
         float valorPlayStation = 5000F;
         boolean isPlaystationCinCompravel = valorTotalContaCorrente > valorPlayStation
                 || valorTotalContaPoupanca > valorPlayStation;
-
         System.out.println("isPlaystationCinCompravel " + isPlaystationCinCompravel);
+
+        // = += -+ *= /= %=
+        double bonus = 1800; // 1800
+        bonus += 1000; // 2800
+        bonus -= 1000; // 1800
+        bonus *= 2; // 3600
+        bonus /= 2; // 1800
+        bonus %= 2; // 0
+        System.out.println(bonus);
+
+        // ++ --
+        int contador = 0;
+        contador += 1; // contador = contador + 1;
+        contador++;
+        contador--;
+        ++contador;
+        --contador;
+        int contador2 = 0;
+        System.out.println(++contador2);
     }
 }
