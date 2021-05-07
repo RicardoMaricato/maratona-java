@@ -1,7 +1,4 @@
 package academy.devdojo.maratonajava.introducao;
-
-import java.time.LocalDate;
-
 /*
 Prática
 
