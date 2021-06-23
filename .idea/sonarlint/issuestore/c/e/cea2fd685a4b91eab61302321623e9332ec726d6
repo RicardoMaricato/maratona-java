@@ -1,0 +1,23 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨Ë£Êÿÿÿÿÿ
+f
+java:S1226("DIntroduce a new variable instead of reusing the parameter "numero1".(è´€ıÿÿÿÿ8‰±›’–/
+f
+java:S1226)"DIntroduce a new variable instead of reusing the parameter "numero2".(Ïæàşÿÿÿÿ8Š±›’–/
+{
+java:S41447"YUpdate this method so that its implementation is not identical to "somaArray" on line 47.(­®¯æÿÿÿÿÿ8±›’–/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(»µÍ‘8“±›’–/
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ôâìıÿÿÿÿ8–±›’–/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÙÍÛƒ8š±›’–/
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(«Ğ“Úÿÿÿÿÿ8±›’–/
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(òô–8Ÿ±›’–/
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ş‡ê×ıÿÿÿÿ8 ±›’–/
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(É¦ìß8¡±›’–/
+T	java:S106,"9Replace this use of System.out or System.err by a logger.(ùì©8¡±›’–/
+L
+java:S62120"/Declare this local variable with "var" instead.(ˆ“—è8¤±›’–/
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(ÂÛõøÿÿÿÿ8©±›’–/
+L
+java:S62128"/Declare this local variable with "var" instead.(ˆ“—è8¬±›’–/
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(ÂÛõøÿÿÿÿ8¯±›’–/
